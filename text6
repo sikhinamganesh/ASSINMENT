@@ -1,2 +1,6 @@
 hi how are you?
+<<<<<<< HEAD
 This is ganesh
+=======
+This is Ganesh
+>>>>>>> bugfix
